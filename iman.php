@@ -1,5 +1,3 @@
 <?php
-hi
-new line
-sb
+versionremoving
 ?>
